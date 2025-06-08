@@ -6,7 +6,7 @@ Este repositorio contiene un micro frontend realizado con React y una shell en A
 
 Instrucciones para compilar y ejecutar el proyecto en un ambiente local.
 
-### Prerequisitor
+### Prerequisitos
 
 - Node.js y npm.
 
